@@ -8,6 +8,6 @@
 <body>
     <h1>TEST GIT 2</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam perspiciatis minus laudantium nihil accusantium asperiores placeat repellat nam distinctio laboriosam dolorem excepturi ipsum cumque voluptatem aperiam incidunt, harum voluptates pariatur?</p>
-
+    <footer>tahun 2024</footer>
 </body>
 </html>
